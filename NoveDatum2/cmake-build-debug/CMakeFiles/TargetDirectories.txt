@@ -1,0 +1,3 @@
+C:/Users/Tomáš/Desktop/Škola/PRP/C++/NoveDatum2/cmake-build-debug/CMakeFiles/NoveDatum2.dir
+C:/Users/Tomáš/Desktop/Škola/PRP/C++/NoveDatum2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tomáš/Desktop/Škola/PRP/C++/NoveDatum2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
